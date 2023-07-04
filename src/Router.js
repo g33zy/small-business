@@ -1,10 +1,10 @@
 import React from 'react'
 import { Routes, Route, Navigate } from 'react-router'
-// import Details from './containers/Details'
-// import Listing from './containers/Listing'
+import Details from './containers/Details'
+import Listing from './containers/Listing'
 import cookie from 'cookie'
 import Login from './containers/Login'
-// import AddListing from './containers/AddListing'
+import AddListing from './containers/AddListing'
 
 
 // import Dashboard from './containers/Dashboard'
