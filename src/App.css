@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,39 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.nav-list {
+  list-style: none;
+  display: flex;
 }
+
+.nav-list-item {
+  margin: auto 20px;
+}
+
+.muiAppbar {
+  /* style={{color:'#2fb170'}} */
+  color:'#2fb170'
+}
+
+ .add-listing {
+  background: #2fb170 !important;
+  color: white !important;
+ } 
+
+ .details-container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+ }
+
+ img {
+  
+
+  height: 20rem;
+  justify-content: center;
+  align-items: center;
+  
+ }
